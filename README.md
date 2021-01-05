@@ -19,4 +19,3 @@ Coder,they say!
 But I ain't..
 
 Career under construction🏗👷‍♂️
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fsiamwebtuts.weebly.com%2Fblog%2F-web&psig=AOvVaw2DFA4MHosv3nbWJaJKXyk5&ust=1609924139492000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDDgoe5hO4CFQAAAAAdAAAAABAE
