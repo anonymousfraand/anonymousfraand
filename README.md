@@ -19,3 +19,7 @@ Coder,they say!
 But I ain't..
 
 Career under construction🏗👷‍♂️
+
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=anonymousfraand&count_private=true)
