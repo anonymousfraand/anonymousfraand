@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Coder,they say!
-But I ain't..
 
 Career under construction🏗👷‍♂️
 
