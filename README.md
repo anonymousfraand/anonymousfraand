@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Career under construction🏗👷‍♂️
+![](https://komarev.com/ghpvc/?username=anonymousfraand)
 
 
 
