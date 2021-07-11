@@ -20,10 +20,3 @@ Career under construction🏗👷‍♂️
 
 
 ![](https://komarev.com/ghpvc/?username=anonymousfraand&color=brightgreen)
-
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=anonymousfraand&count_private=true&show_icons=true&theme=blue&include_all_commits)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousfraand&theme=cobalt)
