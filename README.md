@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/the_anonymous_friend___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_anonymous_friend___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uceizk6zn7lb8zrcwtj3tzfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceizk6zn7lb8zrcwtj3tzfa" height="30" width="40" /></a>
 </p>
-![Praveeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymousfraand&show_icons=true&theme=synthwave)
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymousfraand&show_icons=true&theme=synthwave)]
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
