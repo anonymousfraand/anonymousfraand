@@ -44,12 +44,5 @@ Here are some ideas to get you started:
   
 </p> 
 <img align="right"  width = "470" height ="250" src="https://github-readme-stats.vercel.app/api?username=anonymousfraand&show_icons=true&count_private=true&theme=blue&bg_color=0d1117&text_color=FFF" >
- 
-
 [![Praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousfraand&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Praveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anonymousfraand)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=anonymousfraand&color=blue)
