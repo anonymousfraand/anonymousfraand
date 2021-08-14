@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 [![Praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousfraand&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Praveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anonymousfraand)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=anonymousfraand&color=blue)
