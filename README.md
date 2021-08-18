@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Dev!</h3>
+<h3 align="center">Hemlo!</h3>
 
 <!-- - 🔭 I’m currently  **Building my skills.**
 
