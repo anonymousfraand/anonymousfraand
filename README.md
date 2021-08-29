@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **praveenrijal1980@gmail.com**
 
-- ⚡ Fun fact: **Avlo peria aal lam ila.**
+- ⚡ Fun fact:  **Avlo peria aal lam ila.**
 <center>
 <!--   <img src="/img/pngng.gif" align="center" alt="Welcome!" width="300"/></center>
  -->
