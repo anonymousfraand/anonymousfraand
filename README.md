@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/rohanjebaraj172002/One-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=One-Note&theme=yellow&bg_color=0d1117&text_color=FFF" /></a> -->
 </p> 
 
-[![Praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousfraand&theme=react-dark )](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousfraand&theme=react-dark )](https://github.com/anonymousfraand)
 
 
 ![](https://komarev.com/ghpvc/?username=anonymousfraand&color=blue)
